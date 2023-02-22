@@ -1,2 +1,2 @@
-# roblox-paid-plugins
-Share Paid Roblox Studio Plugins for Free
+# Share Roblox Plugins
+### Request the paid plugin you want in an issue.
